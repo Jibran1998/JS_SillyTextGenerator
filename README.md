@@ -1,1 +1,1 @@
-"# JS_SillyTextGenerator" 
+# JS_SillyTextGenerator
